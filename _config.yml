@@ -3,6 +3,7 @@ title: Anedotas.pt
 description: Só as melhores anedotas!
 baseurl: ""
 url: "http://anedotas.pt"
+permalink: :title
 
 # Build settings
 markdown: kramdown
